@@ -7,7 +7,7 @@ This project helps users visualize and manage their financial activity including
 
 ## **Live Demo**
 *(If deployed, add link here)*  
-Example: [https://yourusername.github.io/finance-dashboard](https://yourusername.github.io/finance-dashboard)
+Example: [https://yourusername.github.io/finance-dashboard](finance-dashboard-2u6hn5w7o-shraddha-gupta-s-projects.vercel.app)
 
 ---
 
