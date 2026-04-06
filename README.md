@@ -1,38 +1,46 @@
-# Finance Dashboard UI
+# Finance Dashboard
 
-A simple and interactive **Finance Dashboard** built using **React** and **Tailwind CSS**.  
-This project helps users visualize and manage their financial activity including transactions, income, expenses, and insights.
-
----
-
-## **Live Demo** 
-https://finance-dashboard-xi-eosin.vercel.app
+A simple and interactive Finance Dashboard built with **React, Vite, and Tailwind CSS**.  
+This project helps users track and understand their financial activity.
 
 ---
 
-## **Features**
+## 🔹 Live Demo
 
-- **Summary Cards:** View Total Balance, Income, and Expenses at a glance  
-- **Charts:** 
-  - Balance Trend (Line Chart)  
-  - Spending Breakdown (Pie Chart)  
-- **Transactions Table:** 
-  - View all transactions with Date, Amount, Category, Type  
-  - Role based view (Admin / Viewer)  
-- **Insights Section:** 
-  - Highest spending category  
-  - Quick observations  
-- **Role Switcher:** Toggle between Viewer and Admin to simulate RBAC  
+[Finance Dashboard Live](https://finance-dashboard-xi-eosin.vercel.app)
 
 ---
 
-## **Tech Stack**
+## 🔹 Features Implemented
 
-- **Frontend:** React  
+- **Dashboard Overview with Summary Cards** (Total Balance, Income, Expenses)
+- **Time Based Visualization** – Balance trend over months (Line Chart)
+- **Categorical Visualization** – Spending breakdown by category (Pie Chart)
+- **Transaction List** with details: Date, Amount, Category, Type
+- **Transaction Filtering** – by type and search
+- **Transaction Sorting** – by date and amount
+- **Role Based UI**
+  - **Viewer:** Can only view data
+  - **Admin:** Can add/edit transactions
+- **Insights Section**
+  - Highest spending category
+  - Monthly comparison
+- **State Management**
+  - Transactions, filters, role selection
+  - LocalStorage persistence for data
+- **Responsive Design** – Works on mobile, tablet, and desktop
+- Clean and intuitive **UI/UX**
+
+---
+
+## 🔹 Tech Stack
+
+- **Frontend:** React, Vite  
 - **Styling:** Tailwind CSS  
 - **Charts:** Recharts  
-- **State Management:** React `useState`  
+- **State Management:** useState + LocalStorage  
+- **Deployment:** Vercel  
 
 ---
 
-## **Project Structure**
+## 🔹 Project Structure
