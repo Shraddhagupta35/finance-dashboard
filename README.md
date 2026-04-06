@@ -6,7 +6,7 @@ This project helps users visualize and manage their financial activity including
 ---
 
 ## **Live Demo** 
-https://finance-dashboard-2u6hn5w7o-shraddha-gupta-s-projects.vercel.app
+https://finance-dashboard-xi-eosin.vercel.app
 
 ---
 
